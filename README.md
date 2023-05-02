@@ -8,3 +8,8 @@
 - ✉️ You can reach me on Discord under `SpaceNiklas#0001`
 
 ## Tools
+- Java
+- Kotlin
+
+
+A more detailed list can be found here: https://spaceniklas.com/#anchor4
