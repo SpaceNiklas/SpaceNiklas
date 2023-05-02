@@ -7,9 +7,16 @@
 - 🤝 I’m looking to collaborate on a Minecraft Server or a YouTube Video!
 - ✉️ You can reach me on Discord under `SpaceNiklas#0001`
 
-## Tools
-- Java
-- Kotlin
+# Tools
+- ☕️ Java 
+- 🏝️ Kotlin
+- 🕸️ HTML
+- 💄 CSS
+- ⚙️ JS
+- 🎬 Final Cut Pro
+- 📸 Photoshop
+- 📼 After Effects
+- 😉 GitHub
 
 
 A more detailed list can be found here: https://spaceniklas.com/#anchor4
