@@ -7,7 +7,7 @@
 - 🤝 I’m looking to collaborate on a Minecraft Server or a YouTube Video!
 - ✉️ You can reach me on Discord under `SpaceNiklas#0001`
 
-# Tools
+## Tools
 - ☕️ Java 
 - 🏝️ Kotlin
 - 🕸️ HTML
