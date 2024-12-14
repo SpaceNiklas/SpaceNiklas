@@ -8,8 +8,6 @@
 - ✉️ You can reach me on Discord under `spaceniklas`
 
 ## Tools
-- ☕️ Java 
-- 🏝️ Kotlin
 - 🕸️ HTML
 - 💄 CSS
 - ⚙️ JS
@@ -17,6 +15,7 @@
 - 📸 Photoshop
 - 📼 After Effects
 - 😉 GitHub
+- Houdini
 
 
 A more detailed list can be found here: https://spaceniklas.com/#anchor4
