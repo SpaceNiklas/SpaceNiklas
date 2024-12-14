@@ -15,7 +15,7 @@
 - 📸 Photoshop
 - 📼 After Effects
 - 😉 GitHub
-- Houdini
+- :fire: Houdini
 
 
 A more detailed list can be found here: https://spaceniklas.com/#anchor4
